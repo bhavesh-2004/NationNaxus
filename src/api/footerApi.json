@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Nashik, Maharashtra"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+91 9322545899"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "bhaveshsonawane2020@gmail.com"
+    }
+  ]

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "country": "Japan",
+        "capital": "Tokyo",
+        "population": 125.8,
+        "famous_sports": ["Sumo wrestling", "Baseball"],
+        "interesting_fact": "Japan has more than 80,000 shrines and temples scattered across the country, with some dating back over a thousand years.",
+        "history": "Japan is an island nation in East Asia known for its rich culture, advanced technology, and historical landmarks like Mount Fuji and the ancient temples of Kyoto."
+    },
+    {
+        "id": 2,
+        "country": "France",
+        "capital": "Paris",
+        "population": 67.1,
+        "famous_sports": ["Soccer", "Rugby"],
+        "interesting_fact": "France is the most visited country in the world, welcoming over 89 million tourists annually.",
+        "history": "France is renowned for its art, fashion, and cuisine. Paris is home to iconic landmarks such as the Eiffel Tower and the Louvre Museum."
+    },
+    {
+        "id": 3,
+        "country": "Brazil",
+        "capital": "Brasília",
+        "population": 213.5,
+        "famous_sports": ["Soccer", "Capoeira"],
+        "interesting_fact": "Brazil's Amazon Rainforest produces 20% of the world's oxygen.",
+        "history": "Brazil is the largest country in South America and is famous for its Carnival festival, the Amazon Rainforest, and its vibrant culture."
+    },
+    {
+        "id": 4,
+        "country": "India",
+        "capital": "New Delhi",
+        "population": 1.4,
+        "famous_sports": ["Cricket", "Kabaddi"],
+        "interesting_fact": "India is the birthplace of four major religions: Hinduism, Buddhism, Jainism, and Sikhism.",
+        "history": "India is known for its diverse culture, historical landmarks like the Taj Mahal, and its contributions to science and technology."
+    },
+    {
+        "id": 5,
+        "country": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331.9,
+        "famous_sports": ["American football", "Baseball"],
+        "interesting_fact": "The United States has the highest number of entrepreneurs and small businesses in the world.",
+        "history": "The United States is a diverse country with a rich history of innovation, democracy, and cultural influence."
+    },
+    {
+        "id": 6,
+        "country": "China",
+        "capital": "Beijing",
+        "population": 1.4,
+        "famous_sports": ["Table tennis", "Martial arts"],
+        "interesting_fact": "China has the world's largest high-speed rail network, spanning over 35,000 kilometers.",
+        "history": "China is one of the world's oldest civilizations, known for the Great Wall, the Forbidden City, and its significant contributions to philosophy and science."
+    },
+    {
+        "id": 7,
+        "country": "Russia",
+        "capital": "Moscow",
+        "population": 144.5,
+        "famous_sports": ["Ice hockey", "Figure skating"],
+        "interesting_fact": "Russia is home to the longest railway in the world, the Trans-Siberian Railway, which stretches over 9,289 kilometers.",
+        "history": "Russia is known for its vast territory, rich history, and cultural heritage, including the Kremlin and Red Square."
+    },
+    {
+        "id": 8,
+        "country": "Australia",
+        "capital": "Canberra",
+        "population": 25.7,
+        "famous_sports": ["Cricket", "Rugby"],
+        "interesting_fact": "Australia has more kangaroos than people, with an estimated kangaroo population of 50 million.",
+        "history": "Australia is known for its unique wildlife, stunning landscapes like the Great Barrier Reef, and its indigenous culture."
+    },
+    {
+        "id": 9,
+        "country": "Germany",
+        "capital": "Berlin",
+        "population": 83.2,
+        "famous_sports": ["Soccer", "Handball"],
+        "interesting_fact": "Germany is home to the world's first car, invented by Karl Benz in 1885.",
+        "history": "Germany has a rich history, known for its contributions to science, philosophy, and its role in both World Wars."
+    },
+    {
+        "id": 10,
+        "country": "Canada",
+        "capital": "Ottawa",
+        "population": 38.1,
+        "famous_sports": ["Ice hockey", "Lacrosse"],
+        "interesting_fact": "Canada has the longest coastline of any country in the world, stretching over 202,080 kilometers.",
+        "history": "Canada is known for its vast wilderness, multicultural society, and its role in international peacekeeping."
+    },
+    {
+        "id": 11,
+        "country": "Italy",
+        "capital": "Rome",
+        "population": 60.3,
+        "famous_sports": ["Soccer", "Cycling"],
+        "interesting_fact": "Italy is home to the smallest country in the world, Vatican City, which is located entirely within the city of Rome.",
+        "history": "Italy is famous for its historical sites like the Colosseum, its art, and its influence on Western culture."
+    },
+    {
+        "id": 12,
+        "country": "Spain",
+        "capital": "Madrid",
+        "population": 47.4,
+        "famous_sports": ["Soccer", "Bullfighting"],
+        "interesting_fact": "Spain is the largest producer of olive oil in the world, accounting for nearly 50% of global production.",
+        "history": "Spain is known for its rich history, diverse culture, and famous landmarks like the Alhambra and La Sagrada Familia."
+    },
+    {
+        "id": 13,
+        "country": "South Korea",
+        "capital": "Seoul",
+        "population": 52.6,
+        "famous_sports": ["Soccer", "Taekwondo"],
+        "interesting_fact": "South Korea has the fastest internet speeds in the world, averaging over 28.6 Mbps.",
+        "history": "South Korea is known for its rapid economic development, K-pop culture, and historical sites like Gyeongbokgung Palace."
+    },
+    {
+        "id": 14,
+        "country": "Mexico",
+        "capital": "Mexico City",
+        "population": 126.2,
+        "famous_sports": ["Soccer", "Lucha libre"],
+        "interesting_fact": "Mexico is home to the world's largest pyramid, the Great Pyramid of Cholula, which has a base four times larger than the Great Pyramid of Giza.",
+        "history": "Mexico is known for its vibrant culture, ancient civilizations like the Aztecs, and its delicious cuisine."
+    },
+    {
+        "id": 15,
+        "country": "United Kingdom",
+        "capital": "London",
+        "population": 67.0,
+        "famous_sports": ["Soccer", "Cricket"],
+        "interesting_fact": "The United Kingdom is the birthplace of the English language, which is now spoken by over 1.5 billion people worldwide.",
+        "history": "The United Kingdom is known for its historical influence, iconic landmarks like the Tower of London, and its contributions to literature and science."
+    }
+]
